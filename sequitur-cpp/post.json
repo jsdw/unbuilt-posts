@@ -1,0 +1,12 @@
+{
+	"title": "Sequitur: a templated C++ implementation",
+	"summary": "In this post I briefly describe my C++ implementation of the lesser known Sequitur compression algorithm, and provide some usage examples. The source code is available to use however you wish.",
+	"keywords": [
+		"C++",
+		"compression",
+		"releases"
+	],
+	"content": "post.md",
+	"created": "2013-05-15T19:25:02.637Z",
+	"updated": "2013-05-15T19:25:07.621Z"
+}

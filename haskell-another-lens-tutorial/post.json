@@ -1,0 +1,9 @@
+{
+	"title": "Haskell: Another Lens Tutorial",
+	"summary": "As someone who just got lenses after several days of trying to find out about them, I thought I'd reflect on this new understanding by showing you what a lens really is, starting from scratch.",
+	"keywords": [
+		"Haskell", "programming"
+	],
+	"content": "post.md",
+	"created": "2014-08-29"
+}

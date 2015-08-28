@@ -1,0 +1,10 @@
+{
+	"title": "Haskell: A Look at the Continuation Monad",
+	"summary": "Some notes I developed on the continuation monad in Haskell as a result of exploring how they work and how to use them, complete with plenty of examples along the way.",
+	"keywords": [
+		"Haskell",
+		"programming"
+	],
+	"content": "post.md",
+	"created": "2015-06-07"
+}

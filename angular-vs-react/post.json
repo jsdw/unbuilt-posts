@@ -1,0 +1,12 @@
+{
+	"title": "Angular and React: A Tale of Two Frameworks",
+	"summary": "Having used Angular pretty heavily for over a year at work and more recently ReactJS from Facebook in rebuilding my website, I thought I'd share my views on how they compare.",
+	"keywords": [
+		"Javascript",
+		"programming",
+		"AngularJS",
+		"ReactJS"
+	],
+	"content": "post.md",
+	"created": "2015-03-15"
+}

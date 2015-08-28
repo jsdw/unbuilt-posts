@@ -1,0 +1,11 @@
+{
+	"title": "C++ Optimization: Making use of Memory Pools",
+	"summary": "Utilising memory pools can be one of the most significant optimisations you can make to a C++ program. Here, I walk through building and using one from the ground up.",
+	"keywords": [
+		"C++",
+		"programming"
+	],
+	"content": "post.md",
+	"created": "2013-05-02T16:48:26.561Z",
+	"updated": "2013-05-03T11:34:25.529Z"
+}

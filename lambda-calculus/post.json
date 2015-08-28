@@ -1,0 +1,11 @@
+{
+	"title": "An Introduction to Lambda Calculus",
+	"summary": "A pretty in depth introduction to Lambda Calculus, the precursor to modern functional programming as well as some crazy esoteric programming languages like Iota and Jot.",
+	"keywords": [
+		"programming",
+		"maths"
+	],
+	"content": "post.md",
+	"created": "2013-03-16T13:56:50.114Z",
+	"updated": "2013-03-17T14:00:48.231Z"
+}

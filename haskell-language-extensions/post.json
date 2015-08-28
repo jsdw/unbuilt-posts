@@ -1,0 +1,11 @@
+{
+	"title": "Haskell: Some Awesome Language Extensions Explained",
+	"summary": "A living post, partly for my own reference, containing details of some of the more awesome/useful/interesting looking Haskell language extensions with plenty of examples. I'll update it as I have more to add.",
+	"keywords": [
+		"Haskell",
+		"programming"
+	],
+	"content": "post.md",
+	"created": "2015-07-04",
+	"updated": "2015-08-22"
+}
