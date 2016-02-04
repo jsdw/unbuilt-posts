@@ -1,0 +1,58 @@
+[
+	{
+		"title": "Competitive Learning Simulator",
+		"summary": "Based on algorithms I worked with and built on during my PhD, This is a two-dimensional javascript based simulator and train one of several algorithms (K-Means, Self Organizing Maps, Neural Gas, Growing Neural Gas and Grow When Required) on user generated shape based inputs. Shapes can be added, moved, removed and deleted in realtime and the effects on training observed",
+		"index": "http://jsdw.github.io/js-competitive-learning-simulator/",
+		"post": "competitive-learning",
+		"created": "2012-04-23T00:00:00.000Z",
+		"keywords": [],
+		"image": false
+	},
+	{
+		"title": "Compression Machine",
+		"summary": "Developed as the result of playing with various compression algorithms. Compresses and decompresses files using a combination of algorithms (Sequitur, Huffman Coding, Burrows-Wheeler transform, Move-to-front transform) each implemented in Javascript",
+		"index": "https://jsdw.github.io/js-compression-machine/",
+		"post": "compression-machine",
+		"created": "2012-10-12T00:00:00.000Z",
+		"keywords": [],
+		"image": false
+	},
+	{
+		"title": "Crazy Bar",
+		"summary": "Having a random play with loading bars and jQuery led me to create this little demo app. Left for fun, nowadays CSS3 transitions would be the tool of choice.",
+		"index": "index.html",
+		"created": "2012-04-24T00:00:00.000Z",
+		"baseURL": "crazybar/",
+		"keywords": [],
+		"post": false,
+		"image": false
+	},
+	{
+		"title": "Fractal Explorer",
+		"summary": "Create and explore fractals from within your web browser. Allows full customization of the colours and rendering quality and downloading of fractal images to your computer. Can be configured to use multiple threads to speed up performance, and fractal parameters can be tweaked to explore novel fractals",
+		"index": "https://jsdw.github.io/js-fractal-explorer/",
+		"created": "2012-05-17T00:00:00.000Z",
+		"keywords": [],
+		"post": false,
+		"image": false
+	},
+	{
+		"title": "JamesBot",
+		"summary": "Something I created to explore Haskell a little more, and to hook into the chat system we use at work and be marginally useful/entertaining.",
+		"index": "https://github.com/jsdw/hs-websocket-bot2",
+		"created": "2015-08-22T00:00:00.000Z",
+		"keywords": [],
+		"post": false,
+		"image": false
+	},
+	{
+		"title": "Rick Astley Compressor",
+		"summary": "A bit of fun in an attempt at some code golf. The challenge: write some code to output lyrics of a well known Rick Astley song in as few characters as possible",
+		"index": "index.html",
+		"post": "rickastley-compressor",
+		"created": "2013-04-05T00:00:00.000Z",
+		"baseURL": "rickastley/",
+		"keywords": [],
+		"image": false
+	}
+]
