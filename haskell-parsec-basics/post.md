@@ -46,7 +46,7 @@ unexpected "H"
 expecting "e"
 ```
 
-Here, running `Parsec.char 'H'` returns a rule that will match a single character so long as it's 'H'. If we thus use it in parsing out string, which begins with an H, it is perfectly happy. If we try looking for any letter that isn't 'H', we fail. The result is always of type `Either ParseError res`; we get back a `Right result` if the rule was successful, and `Left error` if the rule fails. Thus, we can pattern match to see which the case is simply enough:
+Here, running `Parsec.char 'H'` returns a rule that will match a single character so long as it's 'H'. If we thus use it in parsing our string, which begins with an H, it is perfectly happy. If we try looking for any letter that isn't 'H', we fail. The result is always of type `Either ParseError res`; we get back a `Right result` if the rule was successful, and `Left error` if the rule fails. Thus, we can pattern match to see which the case is simply enough:
 
 ```haskell
 main = do
