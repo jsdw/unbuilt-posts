@@ -67,8 +67,9 @@ sumList (a : as) = case mRes of
   where mRes = findIn someList a
 sumList [] = 0
 
--- view patterns simplify it a bunch:
+-- view patterns simplify it a little:
 sumList' ((findIn someList -> Just val) : as) = val + sumList as
+sumList' (_ : as) = sumList as
 sumList' _ = 0
 ```
 
